@@ -1,0 +1,24 @@
+{
+  "name": "yu-inline-source-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Inline assets into the generated HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postpublish": "git push origin master --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:YuBenhao/yu-inline-source-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com:YuBenhao/yu-inline-source-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com:YuBenhao/yu-inline-source-webpack-plugin#readme",
+  "dependencies": {
+    "inline-source": "^6.1.5"
+  }
+}
